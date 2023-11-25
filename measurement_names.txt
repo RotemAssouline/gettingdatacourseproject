@@ -1,0 +1,5 @@
+BodyAcc BodyAcceleration
+GravityAcc GravityAcceleration
+BodyAccJerk Jerk
+BodyGyro AngularVelocity
+BodyGyroJerk AngularJerk
